@@ -15,7 +15,7 @@ This Python application is designed to perform comprehensive data analysis and n
 - **Python**: The core programming language for the application.
 - **Regex**: For pattern matching and data extraction.
 - **Natural Language Toolkit (NLTK)**: For processing human language data.
-- **Jupyter**: To have a better structure for data analysis.
+- **Jupyter Notebook**: To have a better structure for data analysis.
 
 ## How to Use
 1. Clone the repository to your local machine.
