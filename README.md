@@ -20,7 +20,7 @@ This Python application is designed to perform comprehensive data analysis and n
 ## How to Use
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run all cells using JupyterLab or other related applications.
+3. Run all cells using Jupyter Notebook or other related applications.
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
